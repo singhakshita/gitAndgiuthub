@@ -7,3 +7,6 @@ another commit
 apply  stash
 
 identifiable stash
+
+git commit my first commit after branching
+second commit
